@@ -49,6 +49,10 @@
   <a href="https://nodejs.org/en/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node Js" width="40" height="40"/> 
   </a>
+  -
+  <a href="https://flutter.dev/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Node Js" width="40" height="40"/> 
+  </a>
 </div>
 
 <hr>
