@@ -1,7 +1,7 @@
 ## Salve Galera, eu sou o Junior 👋
 
 - 🔭  Hoje eu sou Engineer Design System
-- 🌱  Estudando Typescrit e React
+- 🌱  Estudando Typescrit, React e Flutter
 - 📫  Envie um e-mail para: junioralves.webdeveloper@gmail.com
 
 <hr>
