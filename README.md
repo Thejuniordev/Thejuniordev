@@ -63,17 +63,8 @@
   <a href="https://www.youtube.com/channel/UCwzqfQjmzk-mcLMegXl2lTg" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
   </a>
-  <a href="https://www.facebook.com/Junioralvessantoss" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://twitter.com/junyor_alves" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
   <a href="https://www.linkedin.com/in/junior-alves-3a8b3296/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/>
-  </a>
-  <a href="https://www.instagram.com/user.junior/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""/>
   </a>
   <a href="https://junioralves-webdeveloper.medium.com/" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
